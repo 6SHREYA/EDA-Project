@@ -1,7 +1,7 @@
 
 # EDA PROJECT - GOOGLE PLAYSTORE APPS ANALYSIS
 
-![GOOGLE PLAY](https://www.google.com/search?sca_esv=85af15397c77c0f6&rlz=1C1RXQR_enIN983IN983&sxsrf=ACQVn08V_vw-5_ngvJqheElZs765Om-ajg:1709043141065&q=photo+of+google+play+store+app&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiZytDq2cuEAxU6wjgGHSmwBPwQ0pQJegQIDRAB&biw=1536&bih=695&dpr=1.25#imgrc=nUM3ResxwYWBsM)
+![GOOGLE PLAY](https://raw.githubusercontent.com/6SHREYA/EDA-Project/main/GOOGLE%20PLAY.webp)
 
 
 Join us as we delve into the world of the Google Play Store through our exciting exploratory data analysis (EDA) project! With over 100,000 diverse apps waiting to be explored, we're diving deep to uncover valuable insights about what users really want.
